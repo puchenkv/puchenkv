@@ -2,7 +2,7 @@
 
 
 #### __Mi Historia:__
-  En estos tiempos de cambio me estoy reinventando; para el año 2006 realice un diplomado de webmaster y por circustancia de la vida deje a un lado mi proyecto de emprender en tecnología web.  A partir del 2019 decidi desempolvar mi proyecto y retome mis estudios de tecnología web, primero como autodidacta y luego decidi tomar formación con instituciones profesionales para tener una ruta de conocimiento eficiente y así agilizar mi aprendizaje; para así finalmente empezar mi emprendimiento como una trabajadora autonoma.
+>  En estos tiempos de cambio me estoy reinventando; para el año 2006 realice un diplomado de webmaster y por circustancia de la vida deje a un lado mi proyecto de emprender en tecnología web.  A partir del 2019 decidi desempolvar mi proyecto y retome mis estudios de tecnología web, primero como autodidacta y luego decidi tomar formación con instituciones profesionales para tener una ruta de conocimiento eficiente y así agilizar mi aprendizaje; para así finalmente empezar mi emprendimiento >como una trabajadora autonoma.
 
 
 #### __Trabajos de Interés:__
