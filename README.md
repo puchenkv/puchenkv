@@ -7,7 +7,7 @@
 
 #### __Trabajos de Interés:__
   👉 Diseño Web.   
-  👉 Maquetador Web.   
+  👉 .....   
   👉 Diseño UI/UX.   
 
 
