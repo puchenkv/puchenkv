@@ -15,7 +15,7 @@
 HTML <img width="1.4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">  |  CSS  <img width="1.4%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg"> | JavaScript  <img width="1.4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  Git   <img width="1.3%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
 
 
-#### __Contactame:__  
+#### __Como contactarme:__  
 <a href="https://www.linkedin.com/in/kennathpuche/"><img width="2%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Enlace a LinkedIn"></a>
   
  
@@ -27,10 +27,21 @@ HTML <img width="1.4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-
 >  In these times of change I am reinventing myself; for the year 2006 I did a webmaster diploma and by circumstance of life I put aside my project to undertake in web technology. Starting in 2019, I decided to dust off my project and resume my studies in web technology, first as a self-taught person and then I decided to take training with professional institutions to have an efficient and effective knowledge path in order to speed up my learning; in order to finally be a more competitive professional in the technology labor market.
 
 
-#### __Trabajos de Interés:__
-  👉 Diseño Web.   
-  👉 Diseño UI/UX.   
+#### __Jobs of Interest:__
+  👉 Web Design.   
+  👉 Design UI/UX.   
   👉 Frontend.
+
+
+#### __Skills:__   
+HTML <img width="1.4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">  |  CSS  <img width="1.4%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-icon.svg"> | JavaScript  <img width="1.4%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">  |  Git   <img width="1.3%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+
+
+
+#### __How to reach me:__  
+<a href="https://www.linkedin.com/in/kennathpuche/"><img width="2%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" title="Enlace a LinkedIn"></a>
+
+
 
 <!--
 Comentarios: codigo a reutilizaar
