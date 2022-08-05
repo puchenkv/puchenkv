@@ -2,13 +2,13 @@
 
 
 #### __Mi Historia:__
->  En estos tiempos de cambio me estoy reinventando; para el año 2006 realice un diplomado de webmaster y por circustancia de la vida deje a un lado mi proyecto de emprender en tecnología web.  A partir del 2019 decidi desempolvar mi proyecto y retome mis estudios de tecnología web, primero como autodidacta y luego decidi tomar formación con instituciones profesionales para tener una ruta de conocimiento eficiente y así agilizar mi aprendizaje; para así finalmente empezar mi emprendimiento >como una trabajadora autonoma.
+>  En estos tiempos de cambio me estoy reinventando; para el año 2006 realice un diplomado de web master y por circunstancia de la vida deje a un lado mi proyecto de emprender en tecnología web. A partir del 2019 decidí desempolvar mi proyecto y retome mis estudios de tecnología web, primero como autodidacta y luego busque tomar formación con instituciones profesionales para tener una ruta de conocimiento eficiente y eficaz de manera de agilizar mi aprendizaje; para así finalmente ser un profesional más competitivo en el mercado laboral de tecnología.
 
 
 #### __Trabajos de Interés:__
   👉 Diseño Web.   
-  👉 .....   
   👉 Diseño UI/UX.   
+  👉 Frontend.
 
 
 #### __Habilidades:__   
@@ -24,9 +24,13 @@ HTML <img width="1.4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-
 
 ## Hi there 👋
 
-  Section under construction!
+>  In these times of change I am reinventing myself; for the year 2006 I did a webmaster diploma and by circumstance of life I put aside my project to undertake in web technology. Starting in 2019, I decided to dust off my project and resume my studies in web technology, first as a self-taught person and then I decided to take training with professional institutions to have an efficient and effective knowledge path in order to speed up my learning; in order to finally be a more competitive professional in the technology labor market.
 
 
+#### __Trabajos de Interés:__
+  👉 Diseño Web.   
+  👉 Diseño UI/UX.   
+  👉 Frontend.
 
 <!--
 Comentarios: codigo a reutilizaar
