@@ -22,7 +22,7 @@ HTML <img width="1.4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-
 ---
 
 
-## Hi there 👋
+## Hello 👋
 
 >  In these times of change I am reinventing myself; for the year 2006 I did a webmaster diploma and by circumstance of life I put aside my project to undertake in web technology. Starting in 2019, I decided to dust off my project and resume my studies in web technology, first as a self-taught person and then I decided to take training with professional institutions to have an efficient and effective knowledge path in order to speed up my learning; in order to finally be a more competitive professional in the technology labor market.
 
